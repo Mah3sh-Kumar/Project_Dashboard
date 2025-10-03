@@ -1,4 +1,4 @@
-# 🌿 FarmFlow Dashboard
+# 🌿 GardenCare Dashboard
 
 A modern IoT garden monitoring dashboard for real-time plant monitoring and smart watering system control.
 
